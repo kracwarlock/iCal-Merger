@@ -6,3 +6,7 @@ This script can be used to merge 2 iCal files downloaded from facebook. With sli
 Sometimes your friends might hide their birthdays on facebook but you have them saved in an older iCal file. Also you might have now added more friends and have downloaded a new iCal file. In this case, you'll essentially want to merge the two iCal files.
 
 I personally use this script to prepare iCal files for Rainlendar2 which is an extremely good Desktop Calendar application.
+
+Setup
+-----
+Fill in the first three lines in the Python script.
